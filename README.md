@@ -100,16 +100,15 @@ Untuk mengubah konten atau tampilan kartu, edit file berikut:
 
 **Rojudin**
 
-- Website: [wafarifki.com](https://wafarifki.com)
-- GitHub: [wafarifki](https://github.com/wafarifki)
+- GitHub: [ROJUDIN-Program](https://github.com/ROJUDIN-Program)
 
 ## Lisensi
 
-Proyek ini dirilis di bawah lisensi MIT. Anda bebas menggunakan dan memodifikasinya.
+Proyek ini dirilis di bawah lisensi R_BESAR.ID. Anda bebas menggunakan dan memodifikasinya.
 
 ---
 
 <p align="center">
-  <i>Selamat Hari Raya Idul Fitri 1447 H 🌙</i><br>
+  <i>Selamat Hari Raya Idul Fitri 1447 H </i><br>
   <i>Taqabbalallahu Minna Wa Minkum — Mohon Maaf Lahir dan Batin</i>
 </p>

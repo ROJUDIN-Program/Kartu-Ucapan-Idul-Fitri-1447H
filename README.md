@@ -1,6 +1,6 @@
-# Kartu Ucapan Lebaran 2026
+# Kartu Ucapan Idul Fitri 1447 H
 
-Kartu ucapan digital **Hari Raya Idul Fitri 1447 H / 2026** yang interaktif dengan desain _asymmetrical glassmorphism_, efek 3D gyroscope, animasi partikel, dan fitur personalisasi nama dinamis melalui URL.
+Kartu ucapan digital **Hari Raya Idul Fitri 1447 H / 2026 M** yang interaktif dengan desain _asymmetrical glassmorphism_, efek 3D gyroscope, animasi partikel, dan fitur personalisasi nama dinamis melalui URL.
 
 > تَقَبَّلَ اللَّهُ مِنَّا وَمِنْكُمْ
 

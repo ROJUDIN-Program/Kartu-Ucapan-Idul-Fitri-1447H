@@ -23,7 +23,7 @@ Kartu ucapan digital **Hari Raya Idul Fitri 1447 H / 2026 M** yang interaktif de
 ### Contoh URL dengan Personalisasi
 
 ```
-https://wafarifki.github.io/Kartu-Ucapan-Lebaran-2026/?dari=Wafa&kepada=Keluarga%20Bekasi
+[https://rojudin-program.github.io/Kartu-Ucapan-Idul-Fitri-1447H/?dari=Rojudin&kepada=Ariel+Noah]
 ```
 
 ### Parameter URL yang Tersedia
@@ -69,7 +69,7 @@ Kartu-Ucapan-Lebaran-2026/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/wafarifki/Kartu-Ucapan-Lebaran-2026.git
+git clone https://github.com/ROJUDIN-Program.git
 ```
 
 ### 2. Buka di Browser
